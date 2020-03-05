@@ -4,8 +4,6 @@ http://isd.dp.ua
 
 `1` [**Безродний** Павло](/players/bezrodnyi.pavlo.19941119.jpg) `/1994-11-19/` Флагманпласт
 
-`5` [**Булгаков** Іван](/players/bulhakov.ivan.19880803.jpg) `/1988-08-03/`
-
 `7` [**Гашок** Кирило](/players/gashok.kyrylo.19900605.jpg) `/1990-06-05/`
 
 `10` [**Денісов** Олександр](/players/denysov.oleksandr.19920608.jpg) `/1992-06-08/` Ciklum
@@ -27,5 +25,3 @@ http://isd.dp.ua
 `17` [**Лоян** Максим](/players/loian.maksym.19970708.jpg) `/1997-07-08/`
 
 `9` [**Лукаш** Роман](/players/lukash.roman.19900804.jpg) `/1990-08-04/` SoftServe
-
-`22` [**Тимофєєв** Олексій](/players/tymofieiev.oleksii.19880321.jpg) `/1988-03-21/`
