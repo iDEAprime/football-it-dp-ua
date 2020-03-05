@@ -2,6 +2,8 @@
 
 http://isd.dp.ua
 
+'1' [**Безродний** Павло](/players/bbezrodnyi.pavlo.19941119.jpg) `/1994-11-19/` Флагманпласт
+
 `5` [**Булгаков** Іван](/players/bulhakov.ivan.19880803.jpg) `/1988-08-03/`
 
 `7` [**Гашок** Кирило](/players/gashok.kyrylo.19900605.jpg) `/1990-06-05/`
